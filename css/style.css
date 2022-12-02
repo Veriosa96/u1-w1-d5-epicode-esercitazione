@@ -1,1 +1,96 @@
-/* Your styles here */
+html {
+  @import url:
+    "https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans:wght@300&display=swap";
+  @import utl:
+    "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap";
+}
+#firstpart {
+  text-align: center;
+}
+
+#firstpart img {
+  width: 210px;
+  height: 65px;
+  border-left-style: solid;
+  border-left-width: 120px;
+  border-right-width: 120px;
+  border-right-style: solid;
+  border-bottom-width: 25px;
+  border-top-width: 25px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+}
+
+#spazio {
+}
+#parte1 img {
+  width: 450px;
+  height: 500px;
+  position: relative;
+}
+
+#contenuto {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-weight: bold;
+}
+
+#contenuto h1 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#contenuto {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+}
+#contenuto button {
+  color: white;
+  background-color: #f04c2f;
+  border-radius: 0.8em;
+  border-left-style: solid;
+  padding-left: 27px;
+  padding-top: 18px;
+  padding-right: 27px;
+  padding-bottom: 18px;
+}
+#parte2 {
+  text-align: center;
+  font-weight: bold;
+}
+#parte2 h4 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+#parte2 {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+  margin-top: -15px;
+}
+#parte3 {
+  text-align: center;
+  font-weight: bold;
+}
+#parte3 h4 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#parte3 {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+  margin-top: -15px;
+}
