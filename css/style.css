@@ -115,12 +115,14 @@ html {
   font-family: "Open Sans", sans-serif;
   text-transform: lowercase;
   line-height: 2em;
+  margin-bottom: 60px;
 }
 
 #quadratorosso {
   background-color: #f33817;
   color: white;
   padding: 50px;
+  margin-bottom: 60px;
 }
 
 #quadratorosso h4 {
@@ -138,4 +140,84 @@ html {
 
 .corsivo {
   font-style: italic;
+}
+
+#parte5 {
+  text-align: center;
+}
+
+#parte5 h4 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#parte5 p {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+
+#parte6 {
+  text-align: center;
+}
+
+#parte6 h4 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#parte6 p {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+
+#parte7 {
+  text-align: center;
+}
+
+#parte7 h4 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#parte7 p {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+
+#quadratoazzurro {
+  background-color: #25a1c3;
+  color: white;
+  padding: 50px;
+  margin-bottom: 60px;
+  border-bottom-width: 80px;
+  border-bottom-style: solid;
+  height: 300px;
+  text-align: center;
+}
+
+#quadratoazzurro h3 {
+  margin-top: 30px;
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+#quadratoazzurro p {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
 }
