@@ -94,3 +94,48 @@ html {
   line-height: 2em;
   margin-top: -15px;
 }
+
+#parte4 {
+  text-align: center;
+}
+
+.cerchio {
+  border-radius: 8em;
+  width: 280px;
+  height: 230px;
+}
+#parte4 h4 {
+  margin-top: 30px;
+  font-size: 1.8em;
+  color: #25a1c3;
+  font-weight: bold;
+}
+
+#parte4 {
+  font-family: "Open Sans", sans-serif;
+  text-transform: lowercase;
+  line-height: 2em;
+}
+
+#quadratorosso {
+  background-color: #f33817;
+  color: white;
+  padding: 50px;
+}
+
+#quadratorosso h4 {
+  font-size: xx-large;
+  text-align: center;
+  padding: 20px;
+  font-family: "Merriweather", serif;
+  text-transform: lowercase;
+  line-height: 2em;
+}
+
+#quadratorosso p {
+  text-align: center;
+}
+
+.corsivo {
+  font-style: italic;
+}
